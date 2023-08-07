@@ -1,7 +1,7 @@
-Main Activity file location 
+MainActivity.java file location 
 
 C:\Users\UserName\AndroidStudioProjects\AppName\app\src\main\java\com\example\AppName
 
-xml file location
+activity_main.xml location
 
 C:\Users\UserName\AndroidStudioProjects\AppName\app\src\main\res\AppName
