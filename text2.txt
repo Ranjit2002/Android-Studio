@@ -1,0 +1,17 @@
+First download one image for your app
+
+Open Android Asset Studio  --> GitHub pages
+
+click on Launcher icon generator select an image by clicking on image text and do further process
+
+First download ic_launcher and after that change name to ic_launcher_round and download that also
+
+And after doing that go to downloads folder and unzip it by using winrar extract to icLauncher
+
+After that go in res folder and copy all files and then go at that project location 
+
+app -> src -> main -> res, in res folder paste all the files do the same thing with ic_launcher_round
+
+After doing that delete xml file from from Android Studio -> mipmap -> ic_launcher and ic_launcher_round 
+
+And finally your icon has been changed 
